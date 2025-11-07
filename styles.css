@@ -17,13 +17,13 @@ header {
 
 /* Logo */
 header img {
-    height: 50px;
+    height: 100px;
     width: auto;
 }
 
 /* Title Styling */
 header h1 {
-    flex-grow: 1;
+    flex-grow: 3;
     text-align: center;
     margin: 0;
     font-size: 300px;
